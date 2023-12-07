@@ -30,8 +30,8 @@ struct AddressView: View {
         .navigationBarTitleDisplayMode(.inline)
     }
 }
-    
-    #Preview {
-        AddressView(order: Order())
-    }
+
+#Preview {
+    AddressView(order: Order())
+}
 
