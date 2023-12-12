@@ -14,6 +14,7 @@
 		86607B732B21D5A9000ED087 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86607B722B21D5A9000ED087 /* Order.swift */; };
 		86607B752B21EC6C000ED087 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86607B742B21EC6C000ED087 /* AddressView.swift */; };
 		86607B792B222B6F000ED087 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86607B782B222B6F000ED087 /* CheckoutView.swift */; };
+		86C56B9A2B28970500F02670 /* String - EmptyChecking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C56B992B28970500F02670 /* String - EmptyChecking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		86607B722B21D5A9000ED087 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		86607B742B21EC6C000ED087 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		86607B782B222B6F000ED087 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		86C56B992B28970500F02670 /* String - EmptyChecking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String - EmptyChecking.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				86607B742B21EC6C000ED087 /* AddressView.swift */,
 				86607B782B222B6F000ED087 /* CheckoutView.swift */,
 				86607B722B21D5A9000ED087 /* Order.swift */,
+				86C56B992B28970500F02670 /* String - EmptyChecking.swift */,
 				8629947C2B1F99E900087E63 /* Assets.xcassets */,
 				8629947E2B1F99E900087E63 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				86607B732B21D5A9000ED087 /* Order.swift in Sources */,
 				86607B752B21EC6C000ED087 /* AddressView.swift in Sources */,
+				86C56B9A2B28970500F02670 /* String - EmptyChecking.swift in Sources */,
 				86607B792B222B6F000ED087 /* CheckoutView.swift in Sources */,
 				8629947B2B1F99E700087E63 /* ContentView.swift in Sources */,
 				862994792B1F99E700087E63 /* CupcakeCornerApp.swift in Sources */,
