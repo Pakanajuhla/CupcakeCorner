@@ -1,4 +1,4 @@
-CupcakeCorner
+CupcakeCorner - ordering and delivering cupcakes!
 
 The project is an application developed using the SwiftUI framework,
 designed for ordering and delivering cupcakes.
